@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Ruiyuan-Krik-LIU.github.io//sitemap.xml
